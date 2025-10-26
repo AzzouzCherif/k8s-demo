@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: oussamadevops/frontend:1.0.0
+        image: oussamadevops/frontend:1.0.1
         ports:
         - containerPort: 80
 
